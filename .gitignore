@@ -1,3 +1,23 @@
+*.class
+
+# Package Files #
+*.dex
+*.war
+*.ear
+*.apk
+bin/
 bin
-obj
-local.properties
+gen/
+release/
+release
+gen
+.metadata/
+.metadata
+*.project
+out/
+.idea
+project.properties
+target/
+gen-external-apklibs
+*.iml
+.classpath
