@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.Adapter;
 import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
+import com.koushikdutta.widgets.R;
 
 public class SeparatedListAdapter<T extends Adapter> extends BaseAdapter {
     public void clear() {

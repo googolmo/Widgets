@@ -29,7 +29,7 @@
             <groupId>com.koushikdutta.widgets</groupId>
             <artifactId>widget</artifactId>
             <version>1.0.0</version>
-            <scope>apklib</scope>
+            <type>apklib</type>
         </dependency>
     </dependencies>
 
